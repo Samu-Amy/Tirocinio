@@ -5,8 +5,5 @@
       "destination": "/admin-panel"
     }
   ],
-  "env": [
-    "MONGODB_NAME",
-    "MONGODB_URI"
-  ]
+  "env": ["MONGODB_NAME", "MONGODB_URI"]
 }
